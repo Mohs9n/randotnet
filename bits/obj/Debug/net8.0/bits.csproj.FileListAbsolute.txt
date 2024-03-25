@@ -1,0 +1,15 @@
+/home/mohsen/src/cs/YYM/bits/bin/Debug/net8.0/bits
+/home/mohsen/src/cs/YYM/bits/bin/Debug/net8.0/bits.deps.json
+/home/mohsen/src/cs/YYM/bits/bin/Debug/net8.0/bits.runtimeconfig.json
+/home/mohsen/src/cs/YYM/bits/bin/Debug/net8.0/bits.dll
+/home/mohsen/src/cs/YYM/bits/bin/Debug/net8.0/bits.pdb
+/home/mohsen/src/cs/YYM/bits/obj/Debug/net8.0/bits.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohsen/src/cs/YYM/bits/obj/Debug/net8.0/bits.AssemblyInfoInputs.cache
+/home/mohsen/src/cs/YYM/bits/obj/Debug/net8.0/bits.AssemblyInfo.cs
+/home/mohsen/src/cs/YYM/bits/obj/Debug/net8.0/bits.csproj.CoreCompileInputs.cache
+/home/mohsen/src/cs/YYM/bits/obj/Debug/net8.0/bits.sourcelink.json
+/home/mohsen/src/cs/YYM/bits/obj/Debug/net8.0/bits.dll
+/home/mohsen/src/cs/YYM/bits/obj/Debug/net8.0/refint/bits.dll
+/home/mohsen/src/cs/YYM/bits/obj/Debug/net8.0/bits.pdb
+/home/mohsen/src/cs/YYM/bits/obj/Debug/net8.0/bits.genruntimeconfig.cache
+/home/mohsen/src/cs/YYM/bits/obj/Debug/net8.0/ref/bits.dll
